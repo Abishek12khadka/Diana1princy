@@ -20,7 +20,7 @@
       </p>
   </header>
   <main>
-      <section class="bio">
+      <section class="bio>
           <h2>About Me</h2>
           <p>Hello! I'm Your Name, a web developer with a passion
               for front-end design and user experience.
